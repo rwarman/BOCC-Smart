@@ -1,5 +1,3 @@
-SMART Ink - Active Known Issues/Bugs
-
 Mac OS X Issues:
 Issue: Ink disappearing upon lifting the pen in PowerPoint Presentation mode in PowerPoint 2011
 Status: Resolved in Ink 2.0.
